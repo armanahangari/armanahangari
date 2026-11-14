@@ -1,16 +1,51 @@
-## Hi there 👋
+### Hi, I'm Arman 👋
 
-<!--
-**armanahangari/armanahangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Student in Computer Engineering – Artificial Intelligence & Robotics**  
+Islamic Azad University, Central Tehran Branch
 
-Here are some ideas to get you started:
+I'm an AI researcher with hands-on experience in **Deep Learning**, **Computer Vision**, and **Medical Image Analysis**.  
+My work focuses on developing hybrid deep learning models for medical diagnosis and clinical signal processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently seeking **PhD positions** in Machine Learning and Artificial Intelligence.
+
+---
+
+### Research Interests
+- Deep Learning
+- Computer Vision & Medical Image Analysis
+- Hybrid Convolutional Architectures
+- Clinical Signal Processing
+- Generative Modeling
+- Machine Learning for Healthcare
+
+---
+
+### Education
+- **M.Sc.** in Computer Engineering (AI & Robotics)  
+  Islamic Azad University, Central Tehran Branch | 2022 – 2026  
+  Thesis: *A Novel Approach for Enhancing Accuracy and Automated Diagnosis of Congenital Heart Diseases in Neonates Based on Hybrid Deep Convolutional Architectures*
+
+- **B.Sc.** in Computer Engineering  
+  University College of Rouzbahan | 2016 – 2022
+
+---
+
+### Selected Publications
+- **Improving Gallstone Disease Prediction through Composite Feature Optimization with CatBoost**  
+  IEEE IBAAIDS 2026 *(Published)*
+
+- Concurrent Tumour-Status Classification in Neurofibromatosis Type 1 Using Contextual Bandit  
+  IEEE ICSPIS 2026 *(Submitted)*
+
+---
+
+### Tech Stack
+`Python` `PyTorch` `TensorFlow` `Keras` `scikit-learn` `CatBoost` `OpenCV` `NumPy` `Pandas`
+
+---
+
+### Connect with me
+- 🌐 Website: [armcial.com](https://armcial.com)
+- 📧 Email: arman.ahangari.kia@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/armanahangari](https://www.linkedin.com/in/armanahangari/)
+- 🎓 Google Scholar: [My Scholar Profile](https://scholar.google.com/citations?hl=en&user=OopVuTMAAAAJ)
