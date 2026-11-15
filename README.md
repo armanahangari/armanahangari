@@ -12,11 +12,11 @@ Currently seeking **PhD positions** in Machine Learning and Artificial Intellige
 
 ### Research Interests
 - Deep Learning
-- Computer Vision & Medical Image Analysis
-- Hybrid Convolutional Architectures
-- Clinical Signal Processing
+- Machine Learning
+- Computer Vision & Image Analysis
+- Signal Processing
 - Generative Modeling
-- Machine Learning for Healthcare
+
 
 ---
 
