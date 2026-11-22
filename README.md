@@ -4,9 +4,8 @@
 Islamic Azad University, Central Tehran Branch
 
 I'm an AI researcher with hands-on experience in **Deep Learning**, **Computer Vision**, and **Time-Series Analysis**.  
-My work focuses on developing hybrid deep learning models for medical diagnosis and clinical signal processing.
-
-Currently seeking **PhD positions** in Machine Learning and Artificial Intelligence.
+My work focuses on developing hybrid deep learning models for image classification and signal processing applications.
+Currently looking for **PhD positions** in Machine Learning and Artificial Intelligence.
 
 ---
 
