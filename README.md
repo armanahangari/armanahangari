@@ -23,7 +23,7 @@ Currently seeking **PhD positions** in Machine Learning and Artificial Intellige
 ### Education
 - **M.Sc.** in Computer Engineering (AI & Robotics)  
   Islamic Azad University, Central Tehran Branch | 2022 – 2026  
-  Thesis: *A Novel Approach for Enhancing Accuracy and Automated Diagnosis of Congenital Heart Diseases in Neonates Based on Hybrid Deep Convolutional Architectures*
+  Thesis: *A Novel Approach for Enhancing Accuracy and Automated Diagnosis of Congenital Heart Diseases in Pediatric Based on Hybrid Deep Convolutional Architectures*
 
 - **B.Sc.** in Computer Engineering  
   University College of Rouzbahan | 2016 – 2022
