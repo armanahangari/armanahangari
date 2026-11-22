@@ -3,7 +3,7 @@
 **M.Sc. Student in Computer Engineering – Artificial Intelligence & Robotics**  
 Islamic Azad University, Central Tehran Branch
 
-I'm an AI researcher with hands-on experience in **Deep Learning**, **Computer Vision**, and **Medical Image Analysis**.  
+I'm an AI researcher with hands-on experience in **Deep Learning**, **Computer Vision**, and **Time-Series Analysis**.  
 My work focuses on developing hybrid deep learning models for medical diagnosis and clinical signal processing.
 
 Currently seeking **PhD positions** in Machine Learning and Artificial Intelligence.
@@ -11,12 +11,10 @@ Currently seeking **PhD positions** in Machine Learning and Artificial Intellige
 ---
 
 ### Research Interests
-- Deep Learning
-- Machine Learning
-- Computer Vision & Image Analysis
-- Signal Processing
-- Generative Modeling
-
+- Deep Learning and Computer Vision
+- Machine Learning for Predictive Modeling
+- Signal Processing and Time-Series Analysis
+- Reinforcement Learning and Decision-Making
 
 ---
 
@@ -31,7 +29,7 @@ Currently seeking **PhD positions** in Machine Learning and Artificial Intellige
 ---
 
 ### Selected Publications
-- **Improving Gallstone Disease Prediction through Composite Feature Optimization with CatBoost**  
+- Improving Gallstone Disease Prediction through Composite Feature Optimization with CatBoost  
   IEEE IBAAIDS 2026 *(Published)*
 
 - Concurrent Tumour-Status Classification in Neurofibromatosis Type 1 Using Contextual Bandit  
