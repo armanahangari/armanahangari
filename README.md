@@ -3,8 +3,8 @@
 **M.Sc. Student in Computer Engineering – Artificial Intelligence & Robotics**  
 Islamic Azad University, Central Tehran Branch
 
-I'm an AI researcher with hands-on experience in **Deep Learning**, **Computer Vision**, and **Time-Series Analysis**.  
-My work focuses on developing hybrid deep learning models for image classification and signal processing applications.
+I'm an AI researcher with hands-on experience in **Machine Learning** and **Deep Learning**.  
+My work focuses on developing and evaluating AI models for real-world, data-driven problems, with an emphasis on healthcare applications.
 Currently looking for **PhD positions** in Machine Learning and Artificial Intelligence.
 
 ---
