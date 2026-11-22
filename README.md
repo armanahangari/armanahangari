@@ -36,6 +36,9 @@ Currently looking for **PhD positions** in Machine Learning and Artificial Intel
 - Concurrent Tumour-Status Classification in Neurofibromatosis Type 1 Using Contextual Bandit  
   IEEE ICSPIS 2026 *(Submitted)*
 
+- A Hybrid Convolutional Neural Network for Pediatric Congenital Heart Disease Classification from Chest X-rays  
+  *(In preparation)*
+
 ---
 
 ### Tech Stack
