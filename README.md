@@ -48,4 +48,4 @@ Currently seeking **PhD positions** in Machine Learning and Artificial Intellige
 - 🌐 Website: [armcial.com](https://armcial.com)
 - 📧 Email: arman.ahangari.kia@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/armanahangari](https://www.linkedin.com/in/armanahangari/)
-- 🎓 Google Scholar: [My Scholar Profile](https://scholar.google.com/citations?hl=en&user=OopVuTMAAAAJ)
+- 🎓 Google Scholar: [My Scholar Profile](https://scholar.google.com/citations?user=OopVUtMAAAAJ&hl=en)
