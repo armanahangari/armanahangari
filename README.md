@@ -11,10 +11,12 @@ Currently seeking **PhD positions** in Machine Learning and Artificial Intellige
 ---
 
 ### Research Interests
+- Machine Learning and Predictive Modeling
 - Deep Learning and Computer Vision
-- Machine Learning for Predictive Modeling
-- Signal Processing and Time-Series Analysis
 - Reinforcement Learning and Decision-Making
+- Signal Processing and Time-Series Analysis
+- Generative AI and Foundation Models
+- Probabilistic Modeling and Bayesian Methods
 
 ---
 
